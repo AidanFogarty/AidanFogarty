@@ -6,4 +6,4 @@ An avid surfer 🏄 and a big fan of formula 1 🏎️
 
 [![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanFogarty&count_private=true&show_icons=true)](https://github.com/AidanFogarty/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanFogarty)](https://github.com/AidanFogarty/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AidanFogarty&count_private=true&hide=html&layout=compact)](https://github.com/AidanFogarty/github-readme-stats)
